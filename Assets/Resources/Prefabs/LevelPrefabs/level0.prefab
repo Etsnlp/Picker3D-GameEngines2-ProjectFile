@@ -4547,6 +4547,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Stage (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1754512712876742598, guid: 751d93f9474a350488ae3296d16e5cd0,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6ad474fa8ac66e4f918cb502e8be2c4, type: 2}
     - target: {fileID: 5134407583830887491, guid: 751d93f9474a350488ae3296d16e5cd0,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -4926,6 +4931,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Stage (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3747623824053956696, guid: bde51530187bc104093a3ee80dd0533b,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6ad474fa8ac66e4f918cb502e8be2c4, type: 2}
     - target: {fileID: 4973518220620768287, guid: bde51530187bc104093a3ee80dd0533b,
         type: 3}
       propertyPath: stageID
@@ -5006,6 +5016,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Stage
       objectReference: {fileID: 0}
+    - target: {fileID: 3747623824053956696, guid: bde51530187bc104093a3ee80dd0533b,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6ad474fa8ac66e4f918cb502e8be2c4, type: 2}
     - target: {fileID: 7138880357747339731, guid: bde51530187bc104093a3ee80dd0533b,
         type: 3}
       propertyPath: m_RootOrder
@@ -5081,6 +5096,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Stage (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3747623824053956696, guid: bde51530187bc104093a3ee80dd0533b,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6ad474fa8ac66e4f918cb502e8be2c4, type: 2}
     - target: {fileID: 4973518220620768287, guid: bde51530187bc104093a3ee80dd0533b,
         type: 3}
       propertyPath: stageID

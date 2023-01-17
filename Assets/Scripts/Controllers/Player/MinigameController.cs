@@ -13,6 +13,7 @@ public class MinigameController : MonoBehaviour
     ParticleSystem particle;
     Rigidbody Rigidbody;
     [SerializeField] TextMeshProUGUI Text;
+    private MovementData _data;
 
     void Start()
     {
@@ -33,6 +34,7 @@ public class MinigameController : MonoBehaviour
         if(other.CompareTag("MiniGame"))
         {
            particle.Play(); 
+           _data.ForwardSpeed = 15;
 
         }
         if(other.CompareTag("Point"))
